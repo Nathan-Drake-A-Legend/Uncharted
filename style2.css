@@ -1,0 +1,51 @@
+body{
+    background: linear-gradient( skyblue ,grey)         ;
+}
+h2{
+    text-align: center;
+    font-style: inherit;
+}
+
+.navbar1 ul{
+    align-items: center;
+    list-style-type: none;
+    background-color: hsl(0, 0%, 25%);
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
+}
+
+.navbar1 a{
+    color: #bb2929;
+    text-decoration:none;
+     padding: 15px;
+    display: block;
+    text-align: center;
+    
+    
+}
+
+.navbar1 a:hover{
+    background-color: hsl(0, 0%, 10%);
+}
+
+.navbar1 li{
+    float: left;
+}
+
+
+p{
+    font-style: oblique;
+    font-size: 17px;
+}
+
+
+.center1 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+
+

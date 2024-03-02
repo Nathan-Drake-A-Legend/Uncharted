@@ -1,8 +1,8 @@
 body{
-    background:linear-gradient(blue,yellow);
+    background: linear-gradient(skyblue, hsl(0,0%,25%));
 }
 
-.navbar2 ul{
+.navbar3 ul{
     align-items: center;
     list-style-type: none;
     background-color: hsl(0, 0%, 25%);
@@ -11,7 +11,7 @@ body{
     overflow: hidden;
 }
 
-.navbar2 a{
+.navbar3 a{
     color: #bb2929;
     text-decoration:none;
      padding: 15px;
@@ -21,19 +21,17 @@ body{
     
 }
 
-.navbar2 a:hover{
+.navbar3 a:hover{
     background-color: hsl(0, 0%, 10%);
 }
 
-.navbar2 li{
+.navbar3 li{
     float: left;
 }
 
-.nathan{
-    display: block;
-    width: 25%;
-    margin-left: auto;
-    margin-right: auto;
 
+p{
+    font-size: larger;
+    font-weight: bolder;
+    color: rgb(190, 175, 43);
 }
-
